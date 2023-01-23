@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/IteNome"
+        android:layout_width="267dp"
+        android:layout_height="81dp"
+        android:layout_weight="1"
+        android:text=""
+
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#D813A1E9" />
+
+    <View
+        android:id="@+id/view"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+</LinearLayout>
+

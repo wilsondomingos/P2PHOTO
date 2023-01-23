@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908578494519",
+    "project_id": "p2photo-55845",
+    "storage_bucket": "p2photo-55845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908578494519:android:1e35904dda8db3e92847b2",
+        "android_client_info": {
+          "package_name": "ao.uan.fc.dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908578494519-9gu7bun4nj0thi8n48mv0ia9k3b74ab3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgZ2mgtVEyvXDz3DaPHfY19fxo9YATAQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908578494519-9gu7bun4nj0thi8n48mv0ia9k3b74ab3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
